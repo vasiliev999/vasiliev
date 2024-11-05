@@ -5,4 +5,4 @@ print(age)
 new_age=26
 print(new_age)
 name="is_student"
-print(True)
+is_student=True
